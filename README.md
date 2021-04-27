@@ -8,3 +8,8 @@ Since the system has to be real time, there are 3 modules to this problem:
 ● Identifying region of interest of the face - face detection
 
 ● Identifying the presence of a mask
+
+Algorithms like R-CNN and YOLO are used for human detection.
+
+
+
