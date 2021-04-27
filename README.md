@@ -11,5 +11,7 @@ Since the system has to be real time, there are 3 modules to this problem:
 
 Algorithms like R-CNN and YOLO are used for human detection.
 
+For face detection, there are several algorithms like Viola Jones,Kanade-Lucas-Tomasi (KLT) and Histogram of Oriented Gradients (|HoG).
 
+For the mask detection problem we have used convolutional neural networks.
 
