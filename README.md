@@ -15,3 +15,4 @@ For face detection, there are several algorithms like Viola Jones,Kanade-Lucas-T
 
 For the mask detection problem we have used convolutional neural networks.
 
+Full dataset and other essentials at https://drive.google.com/file/d/1i00k0c7uNuHsuLmyXvueSnyepMiRgm5B/view?usp=sharing
